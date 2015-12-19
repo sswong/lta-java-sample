@@ -12,13 +12,9 @@ Total 7 API calls available for bus related
 To run this client
 1. you will need to apply API access via http://www.mytransport.sg/content/mytransport/home/dataMall.html
 2. generate API key
-3. update API Key in com.saiseng.ltabusapi.util.Config.java
+3. update API Key in com.saiseng.ltabusapi.util.Config.java (sample config in Config.java-sample)
 4. invoke com.saiseng.ltabusapi.tool.RetrievalTool
 
-License
-- gson, httpclient
-- lta data access
-- MIT
 
 TODO
 - ant/maven script
