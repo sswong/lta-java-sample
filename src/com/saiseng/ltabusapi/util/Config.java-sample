@@ -1,0 +1,8 @@
+package com.saiseng.ltabusapi.util;
+
+
+public class Config {
+    // Apply key at http://www.mytransport.sg/content/mytransport/home/dataMall.html
+    public static final String API_ACCOUNT_KEY = "123123123123123";
+    public static final String API_UNIQUE_USER_ID = "123123123123123";
+}
